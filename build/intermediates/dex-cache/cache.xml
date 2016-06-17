@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/amritapritam/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/home/amritapritam/StudioProjects/WordgameDemo/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0_f8e51a27a7aacd251ec04ad8ed0eae5fcc8d5f88.jar" />
+    </item>
+    <item
+        jar="/home/amritapritam/StudioProjects/WordgameDemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="ee111e26219b8746045a60fedcb78cf02f0a99d3">
+        <dex dex="/home/amritapritam/StudioProjects/WordgameDemo/app/build/intermediates/pre-dexed/debug/instant-run_99392a41e9983ae7cd8e2f7b9691cfb40136a174.jar" />
+    </item>
+    <item
+        jar="/home/amritapritam/StudioProjects/WordgameDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="f3f7447d12fddeddc53a44115c029e0cbf079df8">
+        <dex dex="/home/amritapritam/StudioProjects/WordgameDemo/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_5b3ff71d71e1717d04727fd15ded3301024147ab.jar" />
+    </item>
+
+</items>

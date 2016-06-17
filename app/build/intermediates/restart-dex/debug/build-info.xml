@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="19"
+    density="420dpi"
+    format="7"
+    timestamp="5564980248014"
+    token="4453782647868222075" >
+
+    <task
+        name="javac"
+        duration="892" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="399" />
+    <task
+        name="verifier"
+        duration="4" />
+
+    <artifact
+        location="/home/amritapritam/StudioProjects/WordgameDemo/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="5564980248014" >
+        <artifact
+            location="/home/amritapritam/StudioProjects/WordgameDemo/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
